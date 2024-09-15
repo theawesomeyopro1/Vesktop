@@ -60,7 +60,7 @@ Below you can find unofficial packages created by the community. They are not of
 Packaging will create builds in the dist/ folder
 
 ```sh
-git clone https://github.com/Vencord/Vesktop
+git clone https://github.com/theawesomeyopro1Vesktop
 cd Vesktop
 
 # Install Dependencies
